@@ -1,0 +1,13 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿÑÐÌþÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Ÿ¼ÌË
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éœ¢…
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+D
+java:S1128	".Remove this unused import 'java.util.Objects'.(¼¸õ›
+I
+java:S1128
+".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

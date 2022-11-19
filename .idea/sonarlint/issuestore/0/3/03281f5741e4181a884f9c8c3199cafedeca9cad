@@ -1,0 +1,10 @@
+
+J
+java:S37403"/Provide the parametrized type for this generic.(âÍòŸÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éœ¢…
+p
+java:S1450"URemove the "status" field and declare it as a local variable in the relevant methods.(õÇ«àüÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(µ¿Ã
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ğ©³şÈ0

@@ -1,0 +1,10 @@
+
+s
+java:S1192"]Define a constant instead of duplicating this literal "SigortanÄ±z yapÄ±lmÄ±ÅŸtÄ±r." 4 times.(ÚŸÉ
+/
+java:S1700
+"Rename field "individual"(„±üÌ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éœ¢…
+7
+java:S1170
+"!Make this final field static too.(„±üÌ
